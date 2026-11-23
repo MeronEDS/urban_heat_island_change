@@ -1,5 +1,5 @@
 # urban_heat_island_change
-capstone project 
+This capstone examines whether the green corridor initiatives in Addis Ababa have changed land use, urban heat and the distribution of green infrastructure.
 
 ### Data information 
 
